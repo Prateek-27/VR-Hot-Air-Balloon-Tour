@@ -29,6 +29,7 @@ I constructed the hot air balloon from scratch. It has a basket, balloon, ropes,
 
 ## 4. Player
 For the player, I used a capsule game object and attached the main camera to it. The height of capsule is 1.8 meters (average height of human). The camera is attached at eye level of that game object.
+
 ![player](screenshots/ss4.png)
 
 ## 5. Paths
@@ -41,6 +42,7 @@ I used an eagle asset from the store for the bird. The bird is animated. I made 
 - **Roll bird:** Implements the roll rotation.
 - **Yaw bird:** Implements the yaw rotation.
 - **Pitch bird:** Implements the pitch rotation.
+
 ![birds](screenshots/ss6.png)
 
 ## 7. Vegetation
