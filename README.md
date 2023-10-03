@@ -1,5 +1,5 @@
 # Virtual Reality
-## Assignment 1
+## Basic VR
 
 **Name:** Prateek Sengar  
 
